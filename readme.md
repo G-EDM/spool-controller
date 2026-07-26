@@ -6,7 +6,7 @@ FreeCAD file for the spool holder available via google drive:
 
 </br>
 </br>
-<img width="500px;" src="./images/MKS42C-wiring-0.jpg"><img width="400px;" src="./images/spool-controller-1.jpg">
+<img width="400px;" src="./images/spool-controller-1.jpg">
 </br>
 </br>
 
