@@ -1,3 +1,10 @@
+# Work in progress - Will update the readme soon
+
+FreeCAD file for the spool holder available via google drive:
+[Spool controller FreeCAD file](https://drive.google.com/file/d/11AmHV53BxJ0Tc6LzvBvqBzhYZIWUP5-e/view?usp=drive_link)
+
+
+
 # Print tips
 
 - Main body can be printed without supports, 100% infill, 15-20mm Brim. Use adhesive on the printbed and a dustwiper on the filament! 100% infill, no support, 0.3mm layer height, 15mm Brim
