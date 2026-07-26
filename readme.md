@@ -6,7 +6,7 @@ FreeCAD file for the spool holder available via google drive:
 
 </br>
 </br>
-<img width="400px;" src="./images/spool-controller-1.jpg">
+<img width="400px;" src="./images/spool-controller-1.png">
 </br>
 </br>
 
