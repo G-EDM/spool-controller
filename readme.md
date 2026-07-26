@@ -4,6 +4,12 @@ FreeCAD file for the spool holder available via google drive:
 [Spool controller FreeCAD file](https://drive.google.com/file/d/11AmHV53BxJ0Tc6LzvBvqBzhYZIWUP5-e/view?usp=drive_link)
 
 
+</br>
+</br>
+<img width="500px;" src="./images/MKS42C-wiring-0.jpg"><img width="400px;" src="./images/spool-controller-1.jpg">
+</br>
+</br>
+
 
 # Print tips
 
