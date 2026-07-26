@@ -32,5 +32,7 @@ Also: The 42C ships with a little JST jumper wire to connect the board with the 
 
 This is all a little much and I will work on that to maybe even provide an easy source for this part.
 
-Use the provided firmware on an ESP32 to write the settings to the motordriver. Only needs to be done once.
+Use the provided firmware on an ESP32 to write the settings to the motordriver once:
+
+https://github.com/G-EDM/SERVO42C-ESP32WROOM32-UART-FLASH-SOFTEST-CONFIG
 
