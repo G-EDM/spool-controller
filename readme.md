@@ -42,3 +42,6 @@ Use the provided firmware on an ESP32 to write the settings to the motordriver o
 
 https://github.com/G-EDM/SERVO42C-ESP32WROOM32-UART-FLASH-SOFTEST-CONFIG
 
+The used Nema17:
+https://www.amazon.de/dp/B07PMWQ21T?th=1
+
